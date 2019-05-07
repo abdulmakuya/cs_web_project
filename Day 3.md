@@ -20,8 +20,8 @@
 </body>
 </html>
 other tag
-image =img
-list<li><br>
+image =img,
+list-br,
 1-orderlist<ol>
 2-unorderlist<ul>
  
