@@ -21,7 +21,7 @@
 </html>
 other tag
 image =img,
-list-br,
-1-orderlist<ol>
-2-unorderlist<ul>
+list,br,
+1-orderlist,
+2-unorderlist,
  
