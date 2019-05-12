@@ -20,5 +20,16 @@ prompt("Your age?","0");    // input dialog. Second argument is the initial valu
 //Edit DOM element
 document.getElementById("elementID").innerHTML = "Hello World!";
 ```
+
+Functions
+```javascript
+
+Functions
+function addNumbers(a, b) {
+    return a + b; ;
+    x = addNumbers(1, 2);
+}
+```
+
 java script
 var,datatype,function,
