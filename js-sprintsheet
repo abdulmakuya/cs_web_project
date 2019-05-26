@@ -1,5 +1,7 @@
 (Comment - Please lets start with date here)
 
+
+
 Methods of linking js sourcecode
 
 ```javascript
@@ -36,6 +38,7 @@ var,datatype,function,
 
 
 Javascript Objects
+IN JAVASCRIPT,OBJECTS ARE KING.IF YOU UNDERSTAND THEM - YOU UNDERSTAND JAVACRIPT
 
 ```javascript
 var mm = {
