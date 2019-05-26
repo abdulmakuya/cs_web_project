@@ -11,13 +11,13 @@ Validate web forms before submission
 Create cookies to store and retrieve data on a user’s computer for future visits
 
 Variables
-
+```javascript
 var name = "makuya";
 var adress = "mzambarauni"
 
 console.log("my name is "+ name +
            " I live at " + adress);
-
+```
 
 
 Methods of linking js sourcecode
