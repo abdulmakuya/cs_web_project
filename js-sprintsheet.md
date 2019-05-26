@@ -96,3 +96,7 @@ var mm = {
     me.lastName = "Makuya";
     me.age = 50;
     person.eyeColor = "black";
+    
+    //JS Objects are mutable meaning
+    var mimi = me;
+    mimi.firstname = "Abdulmagid" //name changed in me and mimi object
