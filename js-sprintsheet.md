@@ -79,11 +79,14 @@ var mm = {
         two : "designer",
         three : "trainer"
       },
+      //languages:[]
       getPassportDetails : function(){
         return "Person's detail is " + this.firstname +
                "lives at " + this.adress;
       }
     };
+    
+    //printing
     console.log(mm.firstname);
     console.log(mm.profession);
     console.log(mm.getPassportDetails());
