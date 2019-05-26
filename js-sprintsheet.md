@@ -88,3 +88,11 @@ var mm = {
     console.log(mm.profession);
     console.log(mm.getPassportDetails());
     console.log(mm.getPassportDetails);
+    
+    //alternatively
+    
+    var me = new Object();
+    me.firstName = "Abdulswamad";
+    me.lastName = "Makuya";
+    me.age = 50;
+    person.eyeColor = "black";
