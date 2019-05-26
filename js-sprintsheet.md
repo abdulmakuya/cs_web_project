@@ -37,6 +37,18 @@ function addNumbers(a, b) {
 Javascript Objects
 IN JAVASCRIPT,OBJECTS ARE KING.IF YOU UNDERSTAND THEM - YOU UNDERSTAND JAVACRIPT
 
+In JavaScript, almost "everything" is an object.
+
+Booleans can be objects (if defined with the new keyword)
+Numbers can be objects (if defined with the new keyword)
+Strings can be objects (if defined with the new keyword)
+Dates are always objects
+Maths are always objects
+Regular expressions are always objects
+Arrays are always objects
+Functions are always objects
+Objects are always objects
+
 ```javascript
 var mm = {
     	firstname:"Abdul",
