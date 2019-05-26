@@ -50,6 +50,7 @@ Functions are always objects
 Objects are always objects
 
 ```javascript
+//the following example creates a mm object with five properties
 var mm = {
     	firstname:"Abdul",
       lastname:"Makuya",
