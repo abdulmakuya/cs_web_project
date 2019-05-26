@@ -36,8 +36,8 @@ var,datatype,function,
 
 
 Javascript Objects
-```javascript
 
+```javascript
 var mm = {
     	firstname:"Abdul",
       lastname:"Makuya",
@@ -57,5 +57,4 @@ var mm = {
     console.log(mm.profession);
     console.log(mm.getPassportDetails());
     console.log(mm.getPassportDetails);
-    
     ```
