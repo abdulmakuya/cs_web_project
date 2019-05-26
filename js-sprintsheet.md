@@ -1,6 +1,24 @@
 (Comment - Please lets start with date here)
-java script
-var,datatype,function,
+
+
+
+
+# Topics covered in this sprintsheet
+Where does the cow fit in,var,datatype,function,
+
+Where does the cow fit in.  
+Validate web forms before submission
+Create cookies to store and retrieve data on a user’s computer for future visits
+
+Variables
+
+var name = "makuya";
+var adress = "mzambarauni"
+
+console.log("my name is "+ name +
+           " I live at " + adress);
+
+
 
 Methods of linking js sourcecode
 
