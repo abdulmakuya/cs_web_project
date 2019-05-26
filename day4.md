@@ -33,3 +33,29 @@ function addNumbers(a, b) {
 
 java script
 var,datatype,function,
+
+
+Javascript Objects
+```javascript
+
+var mm = {
+    	firstname:"Abdul",
+      lastname:"Makuya",
+      nickname:"Samid",
+      adress:"Ukonga",
+      profession: {
+        one : "developer",
+        two : "designer",
+        three : "trainer"
+      },
+      getPassportDetails : function(){
+        return "Person's detail is " + this.firstname +
+               "lives at " + this.adress;
+      }
+    };
+    console.log(mm.firstname);
+    console.log(mm.profession);
+    console.log(mm.getPassportDetails());
+    console.log(mm.getPassportDetails);
+    
+    ```
