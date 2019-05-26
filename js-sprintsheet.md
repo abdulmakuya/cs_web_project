@@ -103,3 +103,20 @@ var mm = {
     //JS Objects are mutable meaning
     var mimi = me;
     mimi.firstname = "Abdulmagid" //name changed in me and mimi object
+    
+    /*this is a constructor method,note it uses this when defining its variables
+    because it doesnt know yet the personal particulars of the person,
+    also it can have its method
+    Therefore the function can be called by user001.getName();
+    */
+    function User(firstName, lastName, dateOfBirth) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.dateOfBirth = dateOfBirth;
+
+    this.getName = function(){
+      return "User's name: " + this.firstName + " " + this.lastName;
+   }
+}
+
+var user001 = new User("John", "Smith", 1985);
