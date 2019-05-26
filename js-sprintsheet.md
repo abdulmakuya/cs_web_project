@@ -1,6 +1,6 @@
 (Comment - Please lets start with date here)
-
-
+java script
+var,datatype,function,
 
 Methods of linking js sourcecode
 
@@ -32,9 +32,6 @@ function addNumbers(a, b) {
     x = addNumbers(1, 2);
 }
 ```
-
-java script
-var,datatype,function,
 
 
 Javascript Objects
