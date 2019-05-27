@@ -120,3 +120,13 @@ var mm = {
 }
 
 var user001 = new User("John", "Smith", 1985);
+
+
+//Accesing object properties
+objectName.property         // person.age
+or
+
+objectName["property"]      // person["age"]
+or
+
+objectName[expression]      // x = "age"; person[x]
