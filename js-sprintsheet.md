@@ -18,6 +18,21 @@ var adress = "mzambarauni"
 console.log("my name is "+ name +
            " I live at " + adress);
 ```
+Switch Case 
+```javascript
+var num = 5;
+switch(num)
+{
+   case 5:
+      console.log("num is equal to 5");
+      break;
+   case 10:
+      console.log("num is equal to 10");
+      break;
+   default:
+      console.log("num is: "+ num);
+}
+```
 
 
 Methods of linking js sourcecode
