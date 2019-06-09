@@ -45,3 +45,17 @@ embed - bring in content example Adobe Flash
 
 the value for type attribute can be 
 - date,email,url,range,datetime-local,number,search,tel,list (advanced select)
+
+- Base CSS
+```css
+Body
+{
+background-color: #EEEEEE;
+color: #000000;
+margin: 0;
+padding: 0;
+text-align: left;
+font-size: 100%;
+font-family: sans-serif;
+}
+```
