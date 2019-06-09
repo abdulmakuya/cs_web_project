@@ -1,3 +1,25 @@
+ # HTML Basics
+     formatting and structuring webpages
+     
+```html
+<!DOCTYPE HTML>
+<html>
+  <head>
+   <title> </title>
+  </head>
+  <body>
+      
+  </body>
+</html>
+```
+
+ Tags
+      p,hr,br,hx,h1,
+      
+      div,span.  
+      id,class
+      
+      
 HTML5 features
 HTML5 includes the following features:
 
