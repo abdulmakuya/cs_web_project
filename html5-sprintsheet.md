@@ -7,3 +7,7 @@ HTML5 includes the following features:
 - Helps to create a more engaging user experience. Pages that are designed by using HTML5 can provide an experience similar to desktop applications.
 - Allows for enhanced, multiple-platform development by combining the capability of an application programming interface (API) with the ubiquity of the browser.
 - By using HTML5, developers can create a modern application experience that smoothly crosses platforms.
+
+html5 brings logical semantic for easy work and intuitive for developers.
+tags such as have been introduced.
+- header,section,article,navigation,Footer,Aside
