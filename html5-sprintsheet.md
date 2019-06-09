@@ -33,3 +33,15 @@ HTML5 includes the following features:
 html5 brings logical semantic for easy work and intuitive for developers.
 tags such as have been introduced.
 - header,section,article,navigation,Footer,Aside
+
+# Media HTML5 Tags\
+figure tag - contains figcaption,img
+video tag - contains src and controls attribute
+audio - contains src and controls attribute
+embed - bring in content example Adobe Flash
+
+# Input Tag new attributes
+<input type="color"> // will popup a color picker
+
+the value for type attribute can be 
+- date,email,url,range,datetime-local,number,search,tel,list (advanced select)
