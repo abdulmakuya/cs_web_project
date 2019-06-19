@@ -24,7 +24,7 @@ if (array_key_exists('userfile', $_FILES)) {
         // Attach the uploaded file
         $mail->addAttachment($uploadfile, 'My uploaded file');
         if (!$mail->send()) {
-            $msg .= "Mailer Error: " . $mail->ErrorInfo;
+            $msg .= "Mailer Error: " . $mail->InfoError;
         } else {
             $msg .= "Message sent!";
         }
@@ -42,7 +42,7 @@ if (array_key_exists('userfile', $_FILES)) {
 <body>
 <?php if (empty($msg)) { ?>
     <form method="post" enctype="multipart/form-data">
-        <input type="hidden" name="MAX_FILE_SIZE" value="100000"> Send this file: <input name="userfile" type="file">
+        <input type="hidden" name="MAX_FILE_SIZE" value="10000"> Send this file: <input name="userfile" type="file">
         <input type="submit" value="Send File">
     </form>
 <?php } else {
