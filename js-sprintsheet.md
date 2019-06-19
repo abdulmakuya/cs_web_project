@@ -14,9 +14,12 @@ Variables
 ```javascript
 var name = "makuya";
 var adress = "mzambarauni"
+var names="Rahila";
+var address="Kisauni";
 
 console.log("my name is "+ name +
            " I live at " + adress);
+ console.log("My name is "+ names+ " I live at"+ address);          
 ```
 Switch Case 
 ```javascript
