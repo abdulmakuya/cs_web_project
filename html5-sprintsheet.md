@@ -45,10 +45,12 @@ audio - contains src and controls attribute
 embed - bring in content example Adobe Flash
 
 # Input Tag new attributes
+```html
 <input type="color"> // will popup a color picker
 
-the value for type attribute can be 
-- date,email,url,range,datetime-local,number,search,tel,list (advanced select)
+<!-- the value for type attribute can be 
+- date,email,url,range,datetime-local,number,search,tel,list (advanced select) -->
+```
 
 - Base CSS
 ```css
