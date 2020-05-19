@@ -56,11 +56,12 @@ Methods of linking js sourcecode
 
 ```javascript
 //1.On page script
-<script type="text/javascript">  ...
+<script type="text/javascript" src="">  ...
 </script>
 
 //2.Linking to external files
-<script src="filename.js"></script>
+<script src="./filename.js"></script>
+This should be at the bottom of the body tag, because the script needs to manipulate the content
 
 //Output types
 console.log(a);             // write to the browser console
