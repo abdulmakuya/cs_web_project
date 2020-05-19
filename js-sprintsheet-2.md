@@ -9,4 +9,4 @@ within project directory, "code ." opens VSCode and adds it in editor's left pan
        
 Back in editor
 Launch terminal within VSCode by "Ctrl+Shift+`", and start the server by "npm start".
-Note: saving refreshed the changes in browser automatically.
+Note: saving refreshed the changes in browser automatically with the lite server and browser sync activated.
